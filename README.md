@@ -1,4 +1,4 @@
-# python3-CRUD
+# python3-crud
 
 ## Running this app Locally
 
