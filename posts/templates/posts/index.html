@@ -1,0 +1,12 @@
+{% extends 'posts/layout.html' %}
+{% block title %}index{% endblock %}
+{% block content %}
+<ul class="collection with-header">
+<li class="center-align collection-header"><h4>{{title}}</h4></li>
+    {% for post in posts %}
+        <li class="collection-item">
+            <a href="/posts/details/{{post.id}}">{{post.title}}</a>
+        </li>
+    {% endfor %}
+</ul>
+{% endblock %}
