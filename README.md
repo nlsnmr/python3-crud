@@ -6,6 +6,7 @@ Using Python Django framework and MySQL database, this app allow to manage posts
 __Python version__: 3.7.1  
 __Django version__: 2.1.4  
 __Template engine__: Jinja  
+__CSS framework__: Materialize  
 __Database__: Mysql  
 
 ![Preview](https://monosnap.com/image/3wBc0QSf0jOlrzgxoE5NPBaHQqGmul.png)
