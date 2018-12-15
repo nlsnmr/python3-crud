@@ -2,8 +2,8 @@
 
 ### A simple CRUD App With Python 3
 
-__Python version__: 3.7.1
-__Django version__: 2.1.4
+__Python version__: 3.7.1  
+__Django version__: 2.1.4  
 __Template engine__: Jinja  
 __Database__: Mysql  
 
