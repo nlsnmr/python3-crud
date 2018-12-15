@@ -16,7 +16,7 @@ First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/nlsnmr/python3-crud.git
 ```
-Create enviroment && activate:
+Create enviroment and activate:
 ```bash
 virtualenv . && . bin/activate
 ```
