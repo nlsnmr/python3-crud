@@ -1,6 +1,7 @@
 # Python 3 CRUD
 
 ### A simple CRUD App With Python 3
+Using Python Django framework and MySQL database, this app allow to manage posts _(title, description, date creation and time creation)_, displying them on the frontend. 
 
 __Python version__: 3.7.1  
 __Django version__: 2.1.4  
@@ -8,8 +9,6 @@ __Template engine__: Jinja
 __Database__: Mysql  
 
 ![Preview](https://monosnap.com/image/3wBc0QSf0jOlrzgxoE5NPBaHQqGmul.png)
-
-> Using Python Django framework and MySQL database, this app allow to manage posts (title, description, date and time), displying them on the frontend. 
 
 ## Running this app Locally
 
