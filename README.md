@@ -16,8 +16,12 @@ First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/nlsnmr/python3-crud.git
 ```
-After enviroment activation, install the requirements:
+Create enviroment && activate:
+```bash
+virtualenv . && . bin/activate
+```
 
+Install the requirements:
 ```bash
 pip install -r requirements.txt
 ```
