@@ -1,5 +1,7 @@
 # python3-crud
 
+![Preview](https://monosnap.com/image/3wBc0QSf0jOlrzgxoE5NPBaHQqGmul.png)
+
 ## Running this app Locally
 
 First, clone the repository to your local machine:
