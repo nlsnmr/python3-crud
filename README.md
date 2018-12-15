@@ -9,6 +9,8 @@ __Database__: Mysql
 
 ![Preview](https://monosnap.com/image/3wBc0QSf0jOlrzgxoE5NPBaHQqGmul.png)
 
+> Using Python Django framework and MySQL database this app allow to manage posts (title, description, date and time), displying them on the frontend. 
+
 ## Running this app Locally
 
 First, clone the repository to your local machine:
